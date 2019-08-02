@@ -1,1 +1,0 @@
-https://www.j000e.com/linux/setupssr.html
