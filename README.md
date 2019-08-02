@@ -1,2 +1,2 @@
-# PicsBackup
-This is a img source repo for my sites.
+# 项目不存在
+# Project does not exist
